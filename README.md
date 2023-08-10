@@ -50,7 +50,7 @@ My motivation to do this javascript homework was to successfully create a passwo
 
 ##Credits 
  
-Made by Piero Rodriguez 
+Made by Piero Rodriguez (Github account = https://github.com/Piero9992023) 
 
 Helped by https://developer.mozilla.org/en-US/ 
 
